@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\bstu_labs\\labs-6-sem\\pis\\PIS_Lab01\\PIS_Lab01b\\PIS_Lab01b\\PIS_Lab01b\\wwwroot\\WebSocketClient.html",
+      "PackagePath": "staticwebassets\\WebSocketClient.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PIS_Lab01b.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.PIS_Lab01b.props",
+      "PackagePath": "build\\PIS_Lab01b.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.PIS_Lab01b.props",
+      "PackagePath": "buildMultiTargeting\\PIS_Lab01b.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.PIS_Lab01b.props",
+      "PackagePath": "buildTransitive\\PIS_Lab01b.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

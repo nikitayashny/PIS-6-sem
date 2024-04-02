@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PIS_Lab01b.props" />
+</Project>

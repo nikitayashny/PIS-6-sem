@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "ihvI2NMLIcWBqapZcyHvGn+RWvO6QRfs7dql1iJbSUU=",
+  "Source": "PIS_Lab01b",
+  "BasePath": "_content/PIS_Lab01b",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PIS_Lab01b\\wwwroot",
+      "Source": "PIS_Lab01b",
+      "ContentRoot": "C:\\bstu_labs\\labs-6-sem\\pis\\PIS_Lab01\\PIS_Lab01b\\PIS_Lab01b\\PIS_Lab01b\\wwwroot\\",
+      "BasePath": "_content/PIS_Lab01b",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\bstu_labs\\labs-6-sem\\pis\\PIS_Lab01\\PIS_Lab01b\\PIS_Lab01b\\PIS_Lab01b\\wwwroot\\WebSocketClient.html",
+      "SourceId": "PIS_Lab01b",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\bstu_labs\\labs-6-sem\\pis\\PIS_Lab01\\PIS_Lab01b\\PIS_Lab01b\\PIS_Lab01b\\wwwroot\\",
+      "BasePath": "_content/PIS_Lab01b",
+      "RelativePath": "WebSocketClient.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\WebSocketClient.html"
+    }
+  ]
+}

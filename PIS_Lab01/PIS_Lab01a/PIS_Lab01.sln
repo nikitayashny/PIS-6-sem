@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PIS_Lab01", "PIS_Lab01\PIS_Lab01.csproj", "{9016C01F-6886-48AE-94B4-A9E7D7ED80F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsClient", "WindowsClient\WindowsClient.csproj", "{04010800-14E6-46D8-A21A-D09094E910E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9016C01F-6886-48AE-94B4-A9E7D7ED80F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9016C01F-6886-48AE-94B4-A9E7D7ED80F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9016C01F-6886-48AE-94B4-A9E7D7ED80F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9016C01F-6886-48AE-94B4-A9E7D7ED80F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04010800-14E6-46D8-A21A-D09094E910E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04010800-14E6-46D8-A21A-D09094E910E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04010800-14E6-46D8-A21A-D09094E910E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04010800-14E6-46D8-A21A-D09094E910E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94E8C899-DFE0-4DAC-81F8-C2170A26C0D6}
+	EndGlobalSection
+EndGlobal

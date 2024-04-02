@@ -1,0 +1,10 @@
+C:\bstu_labs\labs-6-sem\pis\PIS_Lab01\PIS_Lab01\WindowsClient\bin\Debug\WindowsClient.exe.config
+C:\bstu_labs\labs-6-sem\pis\PIS_Lab01\PIS_Lab01\WindowsClient\bin\Debug\WindowsClient.exe
+C:\bstu_labs\labs-6-sem\pis\PIS_Lab01\PIS_Lab01\WindowsClient\bin\Debug\WindowsClient.pdb
+C:\bstu_labs\labs-6-sem\pis\PIS_Lab01\PIS_Lab01\WindowsClient\obj\Debug\WindowsClient.csproj.AssemblyReference.cache
+C:\bstu_labs\labs-6-sem\pis\PIS_Lab01\PIS_Lab01\WindowsClient\obj\Debug\WindowsClient.Form1.resources
+C:\bstu_labs\labs-6-sem\pis\PIS_Lab01\PIS_Lab01\WindowsClient\obj\Debug\WindowsClient.Properties.Resources.resources
+C:\bstu_labs\labs-6-sem\pis\PIS_Lab01\PIS_Lab01\WindowsClient\obj\Debug\WindowsClient.csproj.GenerateResource.cache
+C:\bstu_labs\labs-6-sem\pis\PIS_Lab01\PIS_Lab01\WindowsClient\obj\Debug\WindowsClient.csproj.CoreCompileInputs.cache
+C:\bstu_labs\labs-6-sem\pis\PIS_Lab01\PIS_Lab01\WindowsClient\obj\Debug\WindowsClient.exe
+C:\bstu_labs\labs-6-sem\pis\PIS_Lab01\PIS_Lab01\WindowsClient\obj\Debug\WindowsClient.pdb

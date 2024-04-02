@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>WebSocket Client</title>
+    </head>
+    <body>
+        <button onclick="startWebSocket()">Пуск</button>
+        <button onclick="stopWebSocket()">Стоп</button>
+        <div id="messages"></div>
+
+    <script>
+        var socket;
+
+        function startWebSocket() {
+            socket = new WebSocket("ws://localhost:6969/ws");
+            socket.onmessage = function (event) {
+                var message = event.data;
+                var messagesDiv = document.getElementById("messages");
+                messagesDiv.innerHTML += "<p>" + message + "</p>";
+            };
+        }
+
+        function stopWebSocket() {
+            socket.close();
+        }
+
+    </script>
+    </body>
+</html>
