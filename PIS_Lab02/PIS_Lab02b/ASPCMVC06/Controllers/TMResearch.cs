@@ -6,18 +6,18 @@ namespace ASPCMVC06.Controllers
 	{
         public ActionResult M01(string value)
         {
-            return Content("GET:M01");
+            return Content("GET:M01 " + value);
         }
 
         public ActionResult M02(string value)
         {
-            return Content("GET:M02");
+            return Content("GET:M02 " + value);
         }
 
 
         public ActionResult M03(string value)
         {
-            return Content("GET:M03");
+            return Content("GET:M03 " + value);
         }
 
 

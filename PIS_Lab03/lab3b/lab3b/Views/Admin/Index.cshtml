@@ -1,0 +1,30 @@
+﻿@model UserRolesViewModel
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<div class="text-center"><h2>Admin Panel</h2></div>
+<p></p>
+<div class="d-flex flex-row justify-content-between">
+    <a class="link-dark" asp-action="CreateRole">add role</a>
+    <a class="link-dark" asp-action="DeleteRole">delete role</a>
+    <a class="link-dark" asp-action="CreateUser">add user</a>
+    <a class="link-dark" asp-action="DeleteUser">delete user</a>
+    <a class="link-dark" asp-action="Assign">assign user role</a>
+    <a class="link-dark" asp-action="RemoveRoleUser">delete user role</a>
+</div>
+<p></p>
+<div>
+    <table class="table">
+        <tr><th scope="col">#</th><th scope="col">Name</th><th scope="col">Roles</th></tr>
+        @{
+            var counter = 1;
+        }
+        @foreach (var userRoles in @Model.userRoles)
+        {
+            <tr><td>@counter</td><td>@userRoles.user.UserName</td><td>@userRoles.GetUserListAsString()</td></tr>
+            counter++;
+        }
+    </table>
+</div>

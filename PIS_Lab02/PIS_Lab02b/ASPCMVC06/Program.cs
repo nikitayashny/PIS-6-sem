@@ -20,7 +20,7 @@ namespace ASPCMVC06
             app.UseRouting();
 
 
-
+    
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
@@ -47,7 +47,7 @@ namespace ASPCMVC06
                      pattern: "{*url}",
                      defaults: new { controller = "TMResearch", action = "MXX" });
             });
-#pragma warning restore ASP0014 // Suggest using top level route registrations
+
 
             app.Run();
         }
